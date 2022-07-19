@@ -26,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Constantly expanding my knowledge.
 
-- :zap: In my free time away from coding, I am an avid bowhunter and video game enthusiast.
+- :zap: In my free time away from coding, I am an avid bowhunter, video game enthusiast and a baseball coack.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jake-eissler-3aaa6b190/)
 
